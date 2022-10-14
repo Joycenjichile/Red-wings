@@ -34,7 +34,7 @@
           .map {
               margin-left: 600px;
               margin-bottom: 20%;
-              margin-top: 40%;
+              /* margin-top: 40%; */
               position: fixed;
               }
   }
