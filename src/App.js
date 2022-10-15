@@ -6,7 +6,7 @@ import Profile from './Profile/profile';
 import Request from './Request/request';
 import Donors from './Donors/Donors';
 // import  Form  from './Form/form';
-import RightSide from "./components/RigtSide/RightSide";
+// import RightSide from "./components/RigtSide/RightSide";
 
 
 
@@ -15,8 +15,8 @@ function App() {
     <div className="App">
       <div className="AppGlass">
         <Sidebar/>
-        <MainDash/> 
-        <RightSide/>
+        {/* <MainDash/>  */}
+        {/* <RightSide/> */}
         
 
         <Routes>
